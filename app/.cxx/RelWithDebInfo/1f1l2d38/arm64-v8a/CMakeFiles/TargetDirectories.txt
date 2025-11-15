@@ -1,0 +1,3 @@
+/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/.cxx/RelWithDebInfo/1f1l2d38/arm64-v8a/CMakeFiles/native-lib.dir
+/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/.cxx/RelWithDebInfo/1f1l2d38/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/.cxx/RelWithDebInfo/1f1l2d38/arm64-v8a/CMakeFiles/rebuild_cache.dir

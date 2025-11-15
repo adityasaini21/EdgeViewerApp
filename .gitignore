@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Android/Gradle
+**/build/
+.gradle/
+local.properties
+.idea/
+*.iml
+.externalNativeBuild/
+
+# Node
+node_modules/
+dist/
+
+# NDK/OpenCV binaries
+**/libs/
+**/jniLibs/
+
+# VS Code
+.vscode/

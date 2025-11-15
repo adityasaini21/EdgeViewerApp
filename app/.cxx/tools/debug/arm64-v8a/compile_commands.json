@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/.cxx/Debug/3e64n4f1/arm64-v8a",
+  "command": "/Users/adityasaini/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/adityasaini/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/adityasaini/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/src/main/cpp/native-lib.cpp"
+},
+{
+  "directory": "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/.cxx/Debug/3e64n4f1/arm64-v8a",
+  "command": "/Users/adityasaini/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/adityasaini/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/adityasaini/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/edge_processor.cpp.o -c /Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/src/main/cpp/edge_processor.cpp",
+  "file": "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/src/main/cpp/edge_processor.cpp"
+}
+]

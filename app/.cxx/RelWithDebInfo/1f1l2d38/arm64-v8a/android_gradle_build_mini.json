@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/adityasaini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/.cxx/RelWithDebInfo/1f1l2d38/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/adityasaini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/.cxx/RelWithDebInfo/1f1l2d38/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/app/build/intermediates/cxx/RelWithDebInfo/1f1l2d38/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": [
+        "/Users/adityasaini/AndroidStudioProjects/EdgeViewerApp/opencv-4.x-android-sdk/sdk/native/libs/arm64-v8a/libopencv_java4.so"
+      ]
+    }
+  }
+}
